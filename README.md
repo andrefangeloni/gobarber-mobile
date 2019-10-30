@@ -1,6 +1,6 @@
 # Go Barber
 
-### Application developed in React Native for the users creating appointments to Baber Shop
+### Application developed in React Native for the users creating appointments to Barber Shop
 
 <p align="center">
   <img src="src/assets/GitHub/SignIn.png" height="702" width="350" alt="SignIn"/>
